@@ -12,7 +12,7 @@ from calculadora import *
 #8 - Verifica se palavra/caracter existe na string
 #9 - Imprime o número Pi com x casas decimais 
 #Enter - Sair
-print("informe a funcão:\n1 - Calculadora\n9 - Pi com x casas decimais" +
+print("informe a funcão:\n1 - Inverte string\n2 - Inverte string - Calculadora\n9 - Pi com x casas decimais" +
       "\nEnter - Sair")
 funcao = input()
 if (funcao == "1"):
